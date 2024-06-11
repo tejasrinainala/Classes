@@ -3,6 +3,9 @@
 // 2. Create an h2 with class 'tagline' and text "I can create HTML elements!"
 // Add it right under the modified text.
 
+
+
+//solution
 const title = document.querySelector('h1');
 title.innerHTML = "Creating and modifying HTML elements";
 
