@@ -5,7 +5,7 @@
 
 // Beginning:
 
-function Book(id,title,author,themes=[]) {
+function Book(id,title,author,themes=[]) {			//constructor function
 	// your code here
 	this.id=id;
 	this.title=title;
